@@ -1,48 +1,48 @@
 # CNN News Dataset Sample
 
-<h2>A sample dataset of 1,281 records</h2>
+<h2>1,281件のレコードからなるサンプルデータセット</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.jp">
     <img src="https://github.com/luminati-io/CNN-News-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **CNN News Dataset Sample** includes **1,281 records** and was extracted using the **Bright Data API**.
+この**CNN News Dataset Sample**には**1,281件のレコード**が含まれており、**Bright Data API**を使用して抽出されています。
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `id` | Unique identifier and URL for the article. |
-| `url` | Direct URL link to the CNN article. |
-| `author` | Name of the article's author. |
-| `headline` | Main headline of the article. |
-| `topics` | Categories or subjects associated with the article. |
-| `publication_date` | Date and time when the article was published. |
-| `updated_last` | Date and time of the last update to the article. |
-| `content` | Full text content of the article. |
-| `videos` | Embedded videos related to the article, if any. |
-| `images` | Images included in the article. |
-| `related_articles` | Links or references to related articles. |
-| `keyword` | Keywords associated with the article for search optimization. |
+| `id` | 記事の一意の識別子およびURLです。 |
+| `url` | CNN記事への直接URLリンクです。 |
+| `author` | 記事の著者名です。 |
+| `headline` | 記事のメイン見出しです。 |
+| `topics` | 記事に関連するカテゴリまたは主題です。 |
+| `publication_date` | 記事が公開された日時です。 |
+| `updated_last` | 記事の最終更新日時です。 |
+| `content` | 記事の本文全文です。 |
+| `videos` | 該当する場合、記事に埋め込まれた関連動画です。 |
+| `images` | 記事に含まれる画像です。 |
+| `related_articles` | 関連記事へのリンクまたは参照です。 |
+| `keyword` | 検索最適化のために記事に関連付けられたキーワードです。 |
 
 
 ## Use Cases
 
 ### 1. Media Trend Analysis
-Analyze historical news data to identify trends in media coverage over time, useful for researchers and journalists.
+過去のニュースデータを分析して、時間の経過に伴うメディア報道の傾向を特定します。研究者やジャーナリストに有用です。
 
 ### 2. Sentiment Analysis
-Perform sentiment analysis on news articles to gauge public opinion and sentiment trends on various topics.
+ニュース記事に対してセンチメント分析を実施し、さまざまなトピックに関する世論やセンチメントの傾向を把握します。
 
 ### 3. Automated News Curation
-Develop AI-driven solutions to curate news content by analyzing headlines and topics for personalized news delivery.
+見出しやトピックを分析し、パーソナライズされたニュース配信のためのAI駆動ソリューションを開発します。
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+データセットは複数の形式で利用可能です:
+- **CSV**（このサンプルに含まれています）
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -62,8 +62,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+データセットはさまざまなスケジュールで更新できます:
+- **Once**（1回限りの配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -72,14 +72,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+特定の要件に基づいて追加のデータポイントでデータセットを強化できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full CNN News dataset](https://brightdata.com/products/datasets/cnn)**
+**[Get the full CNN News dataset](https://brightdata.jp/products/datasets/cnn)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiativeは、環境および社会的課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)**および**[ready-to-use datasets](https://brightdata.jp/products/datasets)**への無料アクセスを提供しています。 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+無料アクセスの申請は[brightinitiative.com](https://brightinitiative.com)で行えます。
