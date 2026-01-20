@@ -1,4 +1,4 @@
-# CNN News Dataset Sample
+# CNN News データセットサンプル
 
 <h2>1,281件のレコードからなるサンプルデータセット</h2>
 
