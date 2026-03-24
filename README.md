@@ -1,47 +1,47 @@
-# CNN News データセットサンプル
+# CNN News Dataset Sample
 
-<h2>1,281件のレコードからなるサンプルデータセット</h2>
+<h2>1,281件のレコードを含むサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
     <img src="https://github.com/bright-jp/CNN-News-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-この**CNN News Dataset Sample**には**1,281件のレコード**が含まれており、**Bright Data API**を使用して抽出されています。
+この**CNN News Dataset Sample**には**1,281件のレコード**が含まれており、**Bright Data API**を使用して抽出されました。
 
-## Data Points
+## データポイント
 
-| Field Name | Description |
+| Field Name | 説明 |
 |------------|-------------|
-| `id` | 記事の一意の識別子およびURLです。 |
-| `url` | CNN記事への直接URLリンクです。 |
-| `author` | 記事の著者名です。 |
-| `headline` | 記事のメイン見出しです。 |
-| `topics` | 記事に関連するカテゴリまたは主題です。 |
-| `publication_date` | 記事が公開された日時です。 |
-| `updated_last` | 記事の最終更新日時です。 |
-| `content` | 記事の本文全文です。 |
-| `videos` | 該当する場合、記事に埋め込まれた関連動画です。 |
-| `images` | 記事に含まれる画像です。 |
-| `related_articles` | 関連記事へのリンクまたは参照です。 |
-| `keyword` | 検索最適化のために記事に関連付けられたキーワードです。 |
+| `id` | 記事の一意の識別子とURL。 |
+| `url` | CNN記事への直接URLリンク。 |
+| `author` | 記事の著者名。 |
+| `headline` | 記事のメイン見出し。 |
+| `topics` | 記事に関連付けられたカテゴリまたはトピック。 |
+| `publication_date` | 記事が公開された日時。 |
+| `updated_last` | 記事の最終更新日時。 |
+| `content` | 記事の全文コンテンツ。 |
+| `videos` | 記事に関連する埋め込み動画（存在する場合）。 |
+| `images` | 記事に含まれる画像。 |
+| `related_articles` | 関連記事へのリンクまたは参照。 |
+| `keyword` | 検索最適化のために記事に関連付けられたキーワード。 |
 
 
-## Use Cases
+## ユースケース
 
-### 1. Media Trend Analysis
-過去のニュースデータを分析して、時間の経過に伴うメディア報道の傾向を特定します。研究者やジャーナリストに有用です。
+### 1. メディアトレンド分析
+過去のニュースデータを分析して、時間の経過に伴うメディア報道のトレンドを特定します。これは研究者やジャーナリストにとって有用です。
 
-### 2. Sentiment Analysis
-ニュース記事に対してセンチメント分析を実施し、さまざまなトピックに関する世論やセンチメントの傾向を把握します。
+### 2. 感情分析
+ニュース記事に対して感情分析を実行し、さまざまなトピックに関する世論や感情の傾向を把握します。
 
-### 3. Automated News Curation
-見出しやトピックを分析し、パーソナライズされたニュース配信のためのAI駆動ソリューションを開発します。
+### 3. 自動ニュースキュレーション
+見出しやトピックを分析して、パーソナライズされたニュース配信のためのAI駆動ソリューションを開発します。
 
 
 
-## File Formats
+## ファイル形式
 
-データセットは複数の形式で利用可能です:
+このデータセットは複数の形式で利用できます:
 - **CSV**（このサンプルに含まれています）
 - **JSON**
 - **NDJSON**
@@ -49,7 +49,7 @@
 - **Parquet**
 - **Compressed (.gz)**
 
-## Delivery Options
+## 配信オプション
 
 - **Email**
 - **API Download**
@@ -60,7 +60,7 @@
 - **Snowflake**
 - **SFTP**
 
-## Update Frequency
+## 更新頻度
 
 データセットはさまざまなスケジュールで更新できます:
 - **Once**（1回限りの配信）
@@ -70,16 +70,16 @@
 - **Quarterly**
 - **Custom schedules**
 
-## Data Enrichment
+## データエンリッチメント
 
-特定の要件に基づいて追加のデータポイントでデータセットを強化できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
+特定の要件に基づいて追加のデータポイントでデータセットを強化できます。カスタムエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full CNN News dataset](https://brightdata.jp/products/datasets/cnn)**
+**[完全なCNN News datasetを取得](https://brightdata.jp/products/datasets/cnn)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## 研究者およびNGO向けの無料アクセス
 
-Bright Initiativeは、環境および社会的課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)**および**[ready-to-use datasets](https://brightdata.jp/products/datasets)**への無料アクセスを提供しています。 
+Bright Initiativeは、環境問題や社会課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)**および**[すぐに使えるdatasets](https://brightdata.jp/products/datasets)**への無料アクセスを提供しています。 
 
-無料アクセスの申請は[brightinitiative.com](https://brightinitiative.com)で行えます。
+無料アクセスの申請は[brightinitiative.com](https://brightinitiative.com)から行えます。
